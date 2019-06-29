@@ -1,0 +1,20 @@
+/*  Custom css
+	Author:  Evans Mutunga->Rivstein
+	Project: Bet Panel
+*/
+
+/* header, navbar and intro styling*/
+.view {
+    background: url("../img/images/img1.jpg")no-repeat center center;
+    background-size: cover;
+}
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+.text-gold{
+	font-size: 10px;
+	color: #FFDF00;
+}
